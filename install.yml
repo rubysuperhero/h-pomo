@@ -1,0 +1,5 @@
+# hiro pomo installation config
+# used by h-install
+
+bin:
+  bin/h-pomo
